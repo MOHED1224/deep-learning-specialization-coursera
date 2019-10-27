@@ -30,3 +30,6 @@ This repository contains all the assignments of the deep learning specialization
 
 <li>Week 5: <a href="https://github.com/MOHED1224/deep-learning-specialization-coursera/blob/master/02.%20Improving%20Deep%20Neural%20Networks/05.%20Assignment%20-%20TensorFlow%20Tutorial.ipynb"> TensorFlow Tutorial </a></li>
 </ul>
+
+
+## The rest of the specialization courses coming soon ...
