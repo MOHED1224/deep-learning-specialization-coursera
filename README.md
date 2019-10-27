@@ -32,5 +32,5 @@ This repository contains all the assignments of the deep learning specialization
 </ul>
 
 ## Milestones
-### Finished the first two courses in Oct 2019.
-### The rest of the specialization courses coming soon ...
+ Finished the first two courses in Oct 2019.
+ The rest of the specialization courses coming soon ...
